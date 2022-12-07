@@ -21,8 +21,8 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       {
         rel: 'stylesheet',
-        href: 'https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap',
-      },
+        href: 'https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Poppins&display=swap'
+      }
     ]
   },
 
